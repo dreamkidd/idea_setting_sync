@@ -1177,6 +1177,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'BpmServiceImplTest.testReassign'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'BpmServiceImplTest.testReassign'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'BpmServiceImplTest.testReject'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1454,7 +1462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BpmServiceImplTest.testReassign'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BpmServiceImplTest.testReject'">
@@ -2998,7 +3006,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1276</Count>
+          <Count>1277</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3062,7 +3070,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>395</Count>
+          <Count>404</Count>
         </Item>
       </Statistic>
     </option>
