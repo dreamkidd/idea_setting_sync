@@ -3086,7 +3086,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>518</Count>
+          <Count>519</Count>
         </Item>
       </Statistic>
     </option>
