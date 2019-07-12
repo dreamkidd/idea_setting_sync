@@ -774,7 +774,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'TestServerApplication'</Description>
-          <Count>236</Count>
+          <Count>237</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TestZip'">
@@ -1286,7 +1286,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3423</Count>
+          <Count>3425</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1294,7 +1294,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -2142,7 +2142,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'TestServerApplication'</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TodoControllerTest.testGetMeetingTodo'">
@@ -2870,7 +2870,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestServerApplication'</Description>
-          <Count>436</Count>
+          <Count>438</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TodoControllerTest.testSaveTodoError'">
@@ -3038,7 +3038,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>663</Count>
+          <Count>665</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3078,7 +3078,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>362</Count>
+          <Count>363</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -3110,7 +3110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>589</Count>
+          <Count>591</Count>
         </Item>
       </Statistic>
     </option>
