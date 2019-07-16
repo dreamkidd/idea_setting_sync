@@ -862,7 +862,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
-          <Count>273</Count>
+          <Count>274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'UserControllerTest.testGetUserInfo'">
@@ -3078,7 +3078,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1344</Count>
+          <Count>1345</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3142,7 +3142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>630</Count>
+          <Count>631</Count>
         </Item>
       </Statistic>
     </option>
