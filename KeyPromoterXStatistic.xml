@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>402</Count>
+          <Count>405</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3451</Count>
+          <Count>3452</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2430,7 +2430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ApplicationTestRunner'</Description>
-          <Count>501</Count>
+          <Count>506</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AttachmentServiceImpl'">
@@ -3078,7 +3078,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1343</Count>
+          <Count>1344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3142,7 +3142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>629</Count>
+          <Count>630</Count>
         </Item>
       </Statistic>
     </option>
