@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>408</Count>
+          <Count>410</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>153</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AbstractClassNameCheckTest.test'">
@@ -2918,7 +2918,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestServerApplication'</Description>
-          <Count>525</Count>
+          <Count>528</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TodoControllerTest.testSaveTodoError'">
@@ -3086,7 +3086,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>691</Count>
+          <Count>692</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3158,7 +3158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>662</Count>
+          <Count>665</Count>
         </Item>
       </Statistic>
     </option>
