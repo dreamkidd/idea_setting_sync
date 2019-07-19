@@ -246,7 +246,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'BpmServiceImplTest.testQueryProcessAll'</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'BpmServiceImplTest.testReassign'">
@@ -2494,7 +2494,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'BpmServiceImplTest.testQueryProcessAll'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BpmServiceImplTest.testReject'">
@@ -3094,7 +3094,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1359</Count>
+          <Count>1360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
