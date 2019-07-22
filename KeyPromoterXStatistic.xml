@@ -1182,7 +1182,7 @@
           <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Watch</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3691</Count>
+          <Count>3695</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2422,7 +2422,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>187</Count>
+          <Count>189</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminInvoiceControllerTest.testQueryWithMonth'">
@@ -3190,7 +3190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>709</Count>
+          <Count>711</Count>
         </Item>
       </Statistic>
     </option>
