@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>420</Count>
+          <Count>423</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3761</Count>
+          <Count>3764</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2950,7 +2950,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestServerApplication'</Description>
-          <Count>584</Count>
+          <Count>593</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TodoControllerTest.testSaveTodoError'">
@@ -3118,7 +3118,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>700</Count>
+          <Count>701</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3126,7 +3126,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1402</Count>
+          <Count>1404</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3190,7 +3190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>745</Count>
+          <Count>753</Count>
         </Item>
       </Statistic>
     </option>
