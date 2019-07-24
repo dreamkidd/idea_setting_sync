@@ -321,6 +321,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'BpmServiceTest.test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'BpmServiceTest.test'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'CalendarUtils'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1334,7 +1342,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3764</Count>
+          <Count>3770</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1599,6 +1607,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'BpmServiceImplTest.unitTest'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BpmServiceTest.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'BpmServiceTest.test'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CalendarUtils'">
@@ -2430,7 +2446,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>189</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminInvoiceControllerTest.testQueryWithMonth'">
@@ -3134,7 +3150,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1404</Count>
+          <Count>1406</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -3198,7 +3214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>762</Count>
+          <Count>764</Count>
         </Item>
       </Statistic>
     </option>
