@@ -2,7 +2,10 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="convertByteOrShortToInt" value="true" />
         <option name="iconName" value="arrow" />
+        <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="useActualParamNames" value="true" />
         <option name="valid" value="true" />
       </Profile>
     </option>
