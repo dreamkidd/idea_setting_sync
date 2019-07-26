@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>468</Count>
+          <Count>469</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>189</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -3006,7 +3006,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'TestServerApplication'</Description>
-          <Count>626</Count>
+          <Count>629</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TodoControllerTest.testSaveTodoError'">
@@ -3174,7 +3174,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>719</Count>
+          <Count>722</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3214,7 +3214,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>388</Count>
+          <Count>391</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -3246,7 +3246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>815</Count>
+          <Count>816</Count>
         </Item>
       </Statistic>
     </option>
