@@ -3134,7 +3134,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>109</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -3174,7 +3174,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>730</Count>
+          <Count>731</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3246,7 +3246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Cmd+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>833</Count>
+          <Count>836</Count>
         </Item>
       </Statistic>
     </option>
