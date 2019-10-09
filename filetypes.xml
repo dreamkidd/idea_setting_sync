@@ -5,7 +5,6 @@
       <mapping pattern="SpaceExtMapper.xml" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="LICIENSE" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping pattern="SpaceExtMapper" type="XML" />
     </extensionMap>
   </component>
