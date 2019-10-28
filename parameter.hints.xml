@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.dxm.dxmit.fin.invoice.client.service.InvoiceTService.Iface.getInvoiceAttach(id,boskey)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
