@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="common-document" firstStartUp="false" />
     <entry projectName="ext-root" firstStartUp="false" />
     <entry projectName="fin-cms" firstStartUp="false" />
     <entry projectName="fin-invoice" firstStartUp="false" />
