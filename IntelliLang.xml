@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>Signer.generateSign (com.dxm.bpit.cms.auth)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("generateSign").withParameters("java.lang.String", "java.lang.String", "java.lang.String").definedInClass("com.dxm.bpit.cms.auth.Signer"))]]></place>
+    </injection>
+  </component>
+</application>

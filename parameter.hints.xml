@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="com.dxm.dxmit.fin.invoice.client.service.InvoiceTService.Iface.getInvoiceAttach(id,boskey)" />
+        <added pattern="com.dxm.bpit.cms.auth.Signer.generateSign(ak,sk,signData)" />
       </blacklist>
     </blacklists>
   </component>
