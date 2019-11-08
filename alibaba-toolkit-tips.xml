@@ -6,5 +6,6 @@
     <entry projectName="fin-cms" firstStartUp="false" />
     <entry projectName="fin-invoice" firstStartUp="false" />
     <entry projectName="fin-reimbursement" firstStartUp="false" />
+    <entry projectName="state" firstStartUp="false" />
   </component>
 </application>
