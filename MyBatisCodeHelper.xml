@@ -6,6 +6,11 @@
         <option name="iconName" value="arrow" />
         <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="useActualParamNames" value="true" />
+        <option name="userMacSet">
+          <set>
+            <option value="00-1C-42-00-00-09" />
+          </set>
+        </option>
         <option name="valid" value="true" />
       </Profile>
     </option>
