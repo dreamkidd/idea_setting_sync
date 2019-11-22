@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalDiffSettings">
+    <option name="MERGE_ENABLED" value="true" />
+    <option name="MERGE_EXE_PATH" value="/Applications/Araxis Merge.app/Contents/Utilities/compare" />
+    <option name="MERGE_PARAMETERS" value="-a2 -3 -title1:Theirs -title2:Ancestor -title3:Yours %3 %2 %1 %4" />
+  </component>
+</application>
