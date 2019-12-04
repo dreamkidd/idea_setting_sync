@@ -20,8 +20,6 @@
     </value>
   </option>
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
-  <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
@@ -70,6 +68,7 @@
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
     <option name="FOR_STATEMENT_WRAP" value="1" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="ASSIGNMENT_WRAP" value="1" />
