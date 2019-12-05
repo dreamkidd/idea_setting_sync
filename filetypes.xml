@@ -6,7 +6,6 @@
       <mapping pattern="SpaceExtMapper.xml" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="LICIENSE" type="PLAIN_TEXT" />
-      <mapping ext="thrift" type="PLAIN_TEXT" />
       <mapping pattern="SpaceExtMapper" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
