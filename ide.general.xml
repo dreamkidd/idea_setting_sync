@@ -20,7 +20,6 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
-    <entry key="debugger.watches.in.variables" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
