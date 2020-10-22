@@ -8,11 +8,11 @@
     <option name="FILE_MASK" value="*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.idl</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
     <mask>*</mask>
   </component>
 </application>
